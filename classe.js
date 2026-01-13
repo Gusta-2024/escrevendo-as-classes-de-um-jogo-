@@ -25,10 +25,10 @@ class Heroi{
 }
          
 const herois = [
-    new Heroi("Gandalf", "80", "mago", "https://i.pinimg.com/736x/8f/c2/f7/8fc2f727d925d57b44f2d59d2e1b1d7d.jpg"),
-    new Heroi("Baldur", "56", "guerreiro", "https://i.pinimg.com/564x/0f/60/da/0f60da867c2657d42817351dfdf2929e.jpg"),
-    new Heroi("Oden", "70", "monge", "https://i.pinimg.com/564x/9c/0b/22/9c0b22f033c4df29da68487707e7774d.jpg"),
-    new Heroi("Snakeice", "38", "ninja", "https://i.pinimg.com/564x/e7/7e/16/e77e169c2889988137356c5267023363.jpg")
+    new Heroi("Gandalf", "80", "mago", "https://blue-phoenix-rpg.fandom.com/pt-br/wiki/Gandalf"),
+    new Heroi("Ichigo", "56", "guerreiro", "https://bitsebaits.com/2023/04/17/10-protagonistas-de-anime-que-usam-espada/"),
+    new Heroi("Oden", "70", "monge", "https://depositphotos.com/br/illustrations/kung-fu-monk.html"),
+    new Heroi("Snakeice", "38", "ninja", "https://www.legiaodosherois.com.br/t/snake-eyes")
 ];
 
 const container = document.getElementById("hero-selection");

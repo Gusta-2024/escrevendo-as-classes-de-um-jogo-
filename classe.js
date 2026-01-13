@@ -25,10 +25,10 @@ class Heroi{
 }
          
 const herois = [
-    new Heroi("Gandalf", "80", "mago", "https://blue-phoenix-rpg.fandom.com/pt-br/wiki/Gandalf"),
-    new Heroi("Ichigo", "56", "guerreiro", "https://bitsebaits.com/2023/04/17/10-protagonistas-de-anime-que-usam-espada/"),
-    new Heroi("Oden", "70", "monge", "https://depositphotos.com/br/illustrations/kung-fu-monk.html"),
-    new Heroi("Snakeice", "38", "ninja", "https://www.legiaodosherois.com.br/t/snake-eyes")
+    new Heroi("Gandalf", "80", "mago", ""),
+    new Heroi("Ichigo", "56", "guerreiro", ""),
+    new Heroi("Oden", "70", "monge", ""),
+    new Heroi("Snakeice", "38", "ninja", "")
 ];
 
 const container = document.getElementById("hero-selection");
